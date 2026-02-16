@@ -1,7 +1,5 @@
 This is test file 1.
-<<<<<<< HEAD
 hello, how are yaa..
 good morning
-=======
 changes made in file 1.
->>>>>>> 218d6a768d58dc85ea0edbbb2de7ee2e7c4d7820
+changes made in test1 to show pull request.
